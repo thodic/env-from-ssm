@@ -1,0 +1,12 @@
+{
+  "name": "env-from-ssm",
+  "version": "1.0.0",
+  "description": "Easily load parameters from SSM into environment variables without adding SSM paths to your code.",
+  "main": "index.js",
+  "author": "Tom Dickinson <tom.dickinson@signable.co.uk>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "aws-sdk": "^2.652.0"
+  }
+}
